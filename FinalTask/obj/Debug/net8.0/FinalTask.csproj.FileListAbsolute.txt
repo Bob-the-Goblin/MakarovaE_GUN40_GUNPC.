@@ -1,0 +1,14 @@
+D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\obj\Debug\net8.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\obj\Debug\net8.0\FinalTask.AssemblyInfoInputs.cache
+D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\obj\Debug\net8.0\FinalTask.AssemblyInfo.cs
+D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\obj\Debug\net8.0\FinalTask.csproj.CoreCompileInputs.cache
+D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\bin\Debug\net8.0\FinalTask.exe
+D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\bin\Debug\net8.0\FinalTask.deps.json
+D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\bin\Debug\net8.0\FinalTask.runtimeconfig.json
+D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\bin\Debug\net8.0\FinalTask.dll
+D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\bin\Debug\net8.0\FinalTask.pdb
+D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\obj\Debug\net8.0\FinalTask.dll
+D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\obj\Debug\net8.0\refint\FinalTask.dll
+D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\obj\Debug\net8.0\FinalTask.pdb
+D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\obj\Debug\net8.0\FinalTask.genruntimeconfig.cache
+D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\obj\Debug\net8.0\ref\FinalTask.dll

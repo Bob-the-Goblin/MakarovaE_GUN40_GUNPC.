@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\finaltask\\finaltask\\service\\filesystemloadsaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\service\\filesystemloadsaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\finaltask\\finaltask\\casino\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\casino\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\finaltask\\finaltask\\service\\isaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\service\\isaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\finaltask\\finaltask\\games\\dicegame\\dicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\games\\dicegame\\dicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\finaltask\\finaltask\\games\\casinogamebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\games\\casinogamebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\finaltask\\finaltask\\games\\blackjack\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\games\\blackjack\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\finaltask\\finaltask\\cardsanddice\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\cardsanddice\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\finaltask\\finaltask\\cardsanddice\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\cardsanddice\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\finaltask\\finaltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\finaltask\\finaltask\\casino\\igame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\casino\\igame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\finaltask\\finaltask\\casino\\gamesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\casino\\gamesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\finaltask\\finaltask\\cardsanddice\\cardvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\cardsanddice\\cardvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\finaltask\\finaltask\\cardsanddice\\wrongdicenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\cardsanddice\\wrongdicenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\finaltask\\finaltask\\cardsanddice\\cardsuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE393414-5985-4D97-B338-7CA44312C25A}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\cardsanddice\\cardsuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Casino.cs",
+              "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\Casino\\Casino.cs",
+              "RelativeDocumentMoniker": "FinalTask\\Casino\\Casino.cs",
+              "ToolTip": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\Casino\\Casino.cs",
+              "RelativeToolTip": "FinalTask\\Casino\\Casino.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAA1wIYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:38:55.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileSystemLoadSaveService.cs",
+              "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\Service\\FileSystemLoadSaveService.cs",
+              "RelativeDocumentMoniker": "FinalTask\\Service\\FileSystemLoadSaveService.cs",
+              "ToolTip": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\Service\\FileSystemLoadSaveService.cs",
+              "RelativeToolTip": "FinalTask\\Service\\FileSystemLoadSaveService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T08:19:18.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiceGame.cs",
+              "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\Games\\DiceGame\\DiceGame.cs",
+              "RelativeDocumentMoniker": "FinalTask\\Games\\DiceGame\\DiceGame.cs",
+              "ToolTip": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\Games\\DiceGame\\DiceGame.cs",
+              "RelativeToolTip": "FinalTask\\Games\\DiceGame\\DiceGame.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T10:33:12.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISaveLoadService.cs",
+              "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\Service\\ISaveLoadService.cs",
+              "RelativeDocumentMoniker": "FinalTask\\Service\\ISaveLoadService.cs",
+              "ToolTip": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\Service\\ISaveLoadService.cs",
+              "RelativeToolTip": "FinalTask\\Service\\ISaveLoadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T08:23:21.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blackjack.cs",
+              "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\Games\\Blackjack\\Blackjack.cs",
+              "RelativeDocumentMoniker": "FinalTask\\Games\\Blackjack\\Blackjack.cs",
+              "ToolTip": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\Games\\Blackjack\\Blackjack.cs",
+              "RelativeToolTip": "FinalTask\\Games\\Blackjack\\Blackjack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T10:31:55.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\CardsAndDice\\Dice.cs",
+              "RelativeDocumentMoniker": "FinalTask\\CardsAndDice\\Dice.cs",
+              "ToolTip": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\CardsAndDice\\Dice.cs",
+              "RelativeToolTip": "FinalTask\\CardsAndDice\\Dice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:11:30.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\CardsAndDice\\Card.cs",
+              "RelativeDocumentMoniker": "FinalTask\\CardsAndDice\\Card.cs",
+              "ToolTip": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\CardsAndDice\\Card.cs",
+              "RelativeToolTip": "FinalTask\\CardsAndDice\\Card.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:08:38.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CasinoGameBase.cs",
+              "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\Games\\CasinoGameBase.cs",
+              "RelativeDocumentMoniker": "FinalTask\\Games\\CasinoGameBase.cs",
+              "ToolTip": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\Games\\CasinoGameBase.cs",
+              "RelativeToolTip": "FinalTask\\Games\\CasinoGameBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T07:22:07.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\Program.cs",
+              "RelativeDocumentMoniker": "FinalTask\\Program.cs",
+              "ToolTip": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\Program.cs",
+              "RelativeToolTip": "FinalTask\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T07:10:19.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGame.cs",
+              "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\Casino\\IGame.cs",
+              "RelativeDocumentMoniker": "FinalTask\\Casino\\IGame.cs",
+              "ToolTip": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\Casino\\IGame.cs",
+              "RelativeToolTip": "FinalTask\\Casino\\IGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:37:55.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GamesEnum.cs",
+              "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\Casino\\GamesEnum.cs",
+              "RelativeDocumentMoniker": "FinalTask\\Casino\\GamesEnum.cs",
+              "ToolTip": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\Casino\\GamesEnum.cs",
+              "RelativeToolTip": "FinalTask\\Casino\\GamesEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:41:44.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CardValue.cs",
+              "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\CardsAndDice\\CardValue.cs",
+              "RelativeDocumentMoniker": "FinalTask\\CardsAndDice\\CardValue.cs",
+              "ToolTip": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\CardsAndDice\\CardValue.cs",
+              "RelativeToolTip": "FinalTask\\CardsAndDice\\CardValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:00:50.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CardSuit.cs",
+              "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\CardsAndDice\\CardSuit.cs",
+              "RelativeDocumentMoniker": "FinalTask\\CardsAndDice\\CardSuit.cs",
+              "ToolTip": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\CardsAndDice\\CardSuit.cs",
+              "RelativeToolTip": "FinalTask\\CardsAndDice\\CardSuit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T08:58:31.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WrongDiceNumberException.cs",
+              "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\CardsAndDice\\WrongDiceNumberException.cs",
+              "RelativeDocumentMoniker": "FinalTask\\CardsAndDice\\WrongDiceNumberException.cs",
+              "ToolTip": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\FinalTask\\FinalTask\\CardsAndDice\\WrongDiceNumberException.cs",
+              "RelativeToolTip": "FinalTask\\CardsAndDice\\WrongDiceNumberException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:40:30.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
