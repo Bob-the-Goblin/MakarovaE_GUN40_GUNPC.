@@ -1,5 +1,7 @@
 ﻿
 
+using System;
+
 namespace FinalTask.Service
 {
     internal class FileSystemLoadSaveService : ISaveLoadService<string>
@@ -8,7 +10,22 @@ namespace FinalTask.Service
         
         public FileSystemLoadSaveService(string path) 
         { 
-        this.path = path ;
+            if (Directory.Exists(path))
+            {
+            this.path = path ;
+            }
+            else
+            {
+                Console.WriteLine("Please, write the path to game");
+                path = Console.ReadLine();
+                if (Directory.Exists(path))
+                { this.path = path; }
+                else
+                {
+                    throw new Exception();
+                }
+            }
+        
         }
         public void SaveData(string data, string fileName)
         {
@@ -29,7 +46,7 @@ namespace FinalTask.Service
             }
             catch (Exception ex)
             {
-
+                
             }
         }
 

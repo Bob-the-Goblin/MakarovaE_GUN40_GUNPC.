@@ -15,12 +15,12 @@ namespace FinalTask.Casino
         private int playerBank;
         private int bet;
         private string data;
-        public Casino() { }
 
         public void StartGame()
         {
             FileSystemLoadSaveService service = new(@"D:/Users");
-
+           
+                
             Console.WriteLine("Hello, player!");
             Console.WriteLine("what's your name?");
 
@@ -34,26 +34,23 @@ namespace FinalTask.Casino
             CheackBank();
 
             Console.WriteLine("What do you want to play?");
-            Console.WriteLine($"Text {(int)Game.BlackJack} for {Game.BlackJack}");
-            Console.WriteLine($" or {(int)Game.DiceGame} for {Game.DiceGame}");
+            Console.WriteLine($"Text {(int)GameEnum.BlackJack} for {GameEnum.BlackJack}");
+            Console.WriteLine($" or {(int)GameEnum.DiceGame} for {GameEnum.DiceGame}");
 
 
-            if (Int32.TryParse(Console.ReadLine(), out int choice)) 
+            if (!Enum.TryParse<GameEnum>(Console.ReadLine(), out var result))
             { 
-                if (choice != 1 && choice != 2)
-                {
-                    Console.WriteLine("We don't play today?");
-                    Environment.Exit(0);
-                }
-            }
-            else
-            {
                 Console.WriteLine("Uncorrect Input");
             }
 
             do  SetBet();  while (bet == 0);
-            
-            PlayGame(choice);
+
+            CasinoGameBase game = null;
+            if (result == GameEnum.BlackJack)
+            { game = new Blackjack(); }
+            if (result == GameEnum.DiceGame)
+            { game = new DiceGame(6, 0, 6); }
+            PlayGame(game);
             CheackBank();
 
             
@@ -88,27 +85,24 @@ namespace FinalTask.Casino
             }
             
         }
-        private void PlayGame(int choice)
-        { 
-            if (choice  == 1)
-            {
-                Blackjack blackjack = new Blackjack();
-                Sub(blackjack);
-                blackjack.PlayGame();
-            }
-            if (choice == 2)
-            {
-                DiceGame diceGame = new DiceGame(6, 0, 6);
-                Sub(diceGame);
-                diceGame.PlayGame();
-            }
-
+        private void PlayGame(CasinoGameBase game)
+        {   
+            Sub(game);
+            game.PlayGame();
+            UnSub(game);
         }
         private void Sub(CasinoGameBase casino)
         {
             casino.OnWin += ResultGameWin;
             casino.OnLoose += ResultGameLoose;
             casino.OnDraw += ResultGameDraw;
+        }
+        private void UnSub(CasinoGameBase casino)
+        {
+            casino.OnWin -= ResultGameWin;
+            casino.OnLoose -= ResultGameLoose;
+            casino.OnDraw -= ResultGameDraw;
+
         }
         private void ResultGameDraw()
         {

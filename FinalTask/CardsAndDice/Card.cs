@@ -20,17 +20,7 @@ namespace FinalTask.CardsAndDice
 
         public int TheValue(Card card)
         {
-            int point;
-            return card.Value switch
-            {
-                CardValue.six => point = 6,
-                CardValue.seven => point = 7,
-                CardValue.eight => point = 8,
-                CardValue.nine => point = 9,
-                CardValue.ten => point = 10,
-                CardValue.ace => point = 11,
-                _ => point = 10,
-            };
+            return (int)card.Value;
         }
     }
 }

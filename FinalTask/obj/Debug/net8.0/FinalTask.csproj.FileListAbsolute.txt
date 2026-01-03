@@ -12,3 +12,4 @@ D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\obj\Debug\net8.0\refint\Fin
 D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\obj\Debug\net8.0\FinalTask.pdb
 D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\obj\Debug\net8.0\FinalTask.genruntimeconfig.cache
 D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\obj\Debug\net8.0\ref\FinalTask.dll
+D:\netlgia\MakarovaE_GUN40_GUNPC\FinalTask\FinalTask\obj\Debug\net8.0\FinalTask.sourcelink.json

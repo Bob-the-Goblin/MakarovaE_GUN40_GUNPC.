@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FinalTask.Casino
 {
-    enum Game
+    enum GameEnum
     {
         BlackJack = 1,
         DiceGame 

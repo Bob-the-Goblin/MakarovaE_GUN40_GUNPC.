@@ -3,14 +3,14 @@ namespace FinalTask.CardsAndDice
 {
     public enum CardValue
     {     
-        six,
-        seven,
-        eight,
-        nine,
-        ten,
-        jack,
-        queen,
-        king,
-        ace 
+        six = 6,
+        seven = 7,
+        eight = 8,
+        nine = 9,
+        ten = 10,
+        jack = 10,
+        queen = 10,
+        king = 10,
+        ace = 11,
     }
 }
